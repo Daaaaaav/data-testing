@@ -17,5 +17,14 @@ Two real-world case studies are used:
 - Temporal Aggregation (weekly aggregation of public risk signals)
 - Model Traaining of Logistic Regression (primary) vs Random Forest (comparison)
 
-# Evaluation
-
+# Results
+### Logistic Feature Comparison
+![Logistic Feature Importance](logistic_feature_importance.png)
+### RF Feature Comparison
+![RF Feature Comparison](rf_feature_comparison.png)
+### ROC Curve Comparison
+![ROC Curve Comparison](roc_comparison.png)
+### Summary
+- Logistic Regression provides better overall balance between false positives and false negatives.
+- Random Forest achieves a higher ROC-AUC (Receiver Operating Characteristic-Area Under the Curve), indicating stronger ranking ability, but suffers from class imbalance sensitivity, reducing balanced accuracy.
+- For early risk detection, Logistic Regression is more reliable due to higher balanced accuracy.
