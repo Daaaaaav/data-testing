@@ -1,0 +1,371 @@
+company,source_type,source_name,publish_date,risk_label,trigger_terms,clean_text
+Meta,news,MSN,2025-12-21 22:51:14,2,layoff,meta layoffs facebook whatsapp instagram parent company to start laying off employees today msn
+Meta,news,Fortune,2025-12-05 08:00:00,2,layoff,meta may unwind metaverse initiatives with layoffs fortune
+Meta,news,VT Markets,2025-10-24 07:00:00,2,layoff,meta ai layoffs and market impact vt markets
+Meta,news,Forbes,2025-10-27 07:00:00,2,layoff,meta layoffs and the cost of a frictionless ai future forbes
+Meta,news,FOX 13 Seattle,2025-10-28 07:00:00,2,layoff,meta layoffs to hit seattle bellevue and redmond fox seattle
+Meta,news,The HR Digest,2025-12-05 08:00:00,2,layoff,do meta s metaverse budget cuts signal incoming layoffs the hr digest
+Meta,news,Business Insider,2025-12-16 17:45:00,2,layoff,the layoffs list of verizon meta amazon and more business insider
+Meta,news,The New York Times,2025-10-23 07:00:00,2,layoff,meta layoffs included employees who monitored risks to user privacy the new york times
+Meta,news,The HR Digest,2025-10-24 07:00:00,2,layoff,from rapid hiring straight to firing meta s layoffs leave employees confused the hr digest
+Meta,news,CNBC,2025-10-22 07:00:00,2,layoff,meta ai layoffs latest signal tech s hottest career path may end with more risk than riches cnbc
+Meta,news,VOI.id,2025-02-10 08:00:00,2,layoff,meta starts layoffs of thousands of employees in dozens of countries asia including voi id
+Meta,news,NDTV,2025-12-04 08:00:00,2,layoff,mark zuckerberg plans budget cuts to build metaverse layoffs loom ndtv
+Meta,news,TechCrunch,2025-12-12 08:00:00,2,layoff,a comprehensive list of tech layoffs techcrunch
+Meta,news,The Economic Times,2025-12-04 08:00:00,2,layoff,meta to slash metaverse budget by potential layoffs loom report the economic times
+Meta,news,The American Bazaar,2025-10-29 07:00:00,2,layoff,meta announces more layoffs names vishal shah to key ai leadership role the american bazaar
+Meta,news,Business Post,2025-12-20 21:10:41,2,"layoff,strike",hundreds of meta ai contractors vote to strike over layoffs at cpl owned covalen business post
+Meta,news,GeekWire,2025-10-27 07:00:00,2,layoff,filing meta s ai layoffs hit washington offices in bellevue seattle redmond geekwire
+Meta,news,MSN,2025-12-20 19:19:41,2,layoff,meta s layoffs spark backlash employees reject performance based claims cruelest company zuck doesn t care about msn
+Meta,news,ABC7 San Francisco,2025-10-22 07:00:00,2,layoff,meta layoffs company cutting ai jobs even as it continues to hire more for its superintelligence lab abc san francisco
+Meta,news,36Kr,2025-11-02 07:00:00,2,"layoff,restructuring",meta layoffs openai restructuring a word analysis on how google s ai epic is rewritten by heroes kr
+Meta,news,Ragan Communications,2025-11-21 08:00:00,2,layoff,verizon layoff memo emphasizes upskilling meta tells workers they re being judged on ai use ragan communications
+Meta,news,The Economic Times,2025-10-27 07:00:00,2,layoff,meta layoffs here s the email it sent to its employees it just sacked the economic times
+Meta,news,SFGATE,2025-10-28 07:00:00,2,layoff,meta layoff includes workers around bay area headquarters sfgate
+Meta,news,seattlered.com,2025-10-28 07:00:00,2,layoff,meta s ai layoffs hit seattle seattlered com
+Meta,news,Fortune,2025-07-16 07:00:00,2,layoff,tech layoffs how microsoft google and meta are plotting for the ai era fortune
+Meta,news,CNBC,2025-12-04 08:00:00,2,job cuts,meta is rebounding on report of job cuts why stephanie link is adding to her position cnbc
+Meta,news,KRON4,2025-10-28 07:00:00,2,layoff,meta cutting over bay area jobs in latest layoffs kron
+Meta,news,Newsweek,2025-10-22 07:00:00,2,"layoff,mass layoff",meta announces mass layoffs newsweek
+Meta,news,Business Insider,2025-05-19 07:00:00,2,layoff,i helped guide meta layoffs then i got laid off too business insider
+Meta,news,Business Insider,2025-07-25 07:00:00,2,layoff,my advice for leading through layoffs and chaos as a former meta and airbnb manager business insider
+Meta,news,peoplematters.in,2025-11-10 08:00:00,2,layoff,after layoffs in ai unit meta turns to chatbot for staff evaluations peoplematters in
+Meta,news,Zee News,2025-12-22 10:27:46,2,"job cuts,layoff",tech layoffs in cross mark from microsoft to amazon check list of biggest tech companies that cited ai in job cuts zee news
+Meta,news,The Economic Times,2025-11-02 07:00:00,2,job cuts,over job cuts rattle tech industry in amazon meta google intel lay off thousands of empl the economic times
+Meta,news,San Francisco Chronicle,2025-10-28 07:00:00,2,layoff,meta confirms bay area layoffs affecting more than workers in menlo park san francisco chronicle
+Meta,news,livemint.com,2025-10-23 07:00:00,2,layoff,meta layoffs indian origin ai startup founder offers jobs to laid off employees this is how much they will earn livemint com
+Meta,news,MSN,2025-12-16 19:27:46,2,layoff,meta layoffs facebook parent to cut jobs in major workforce reshuffle what it means for employees msn
+Meta,news,Analytics India Magazine,2025-10-24 07:00:00,2,layoff,meta s layoffs are india s big break for ai talent analytics india magazine
+Meta,news,livemint.com,2025-12-06 08:00:00,2,layoff,zuckerberg plans budget cuts layoffs at meta to build metaverse livemint com
+Meta,news,Business Insider,2025-10-17 07:00:00,2,layoff,microsoft laid her off a layoff support group helped her bounce back and she got a job at meta months later business insider
+Meta,news,Times of India,2025-10-24 07:00:00,2,layoff,meta ai layoffs lessons for tech workers and stem students in a fast changing industry times of india
+Meta,news,tech.co,2025-02-10 08:00:00,2,layoff,meta layoffs coming today reveals internal memo tech co
+Meta,news,RTE.ie,2025-11-28 08:00:00,2,job cuts,fears of job cuts at services firm covalen in dublin rte ie
+Meta,news,Fast Company,2025-10-22 07:00:00,2,layoff,meta ai layoffs today jobs are already being cut from alexandr wang s superintelligence lab fast company
+Meta,news,The Economic Times,2025-10-23 07:00:00,2,layoff,meta layoffs why facebook parent company is firing employees from its ai team zuckerberg s motive re the economic times
+Meta,news,The HR Digest,2025-05-13 07:00:00,2,layoff,zuckerberg s intense year means thousands of meta employees face layoffs the hr digest
+Meta,news,Business Insider,2025-07-16 07:00:00,1,restructuring,scale ai just got hit by a major restructuring in the wake of its blockbuster meta deal business insider
+Meta,news,Yahoo Finance,2025-10-25 07:00:00,2,layoff,the bull case for meta platforms meta could change following ai layoffs and infrastructure shift yahoo finance
+Meta,news,peoplematters.in,2025-05-21 07:00:00,2,layoff,meta prepares for future layoffs by ranking more employees as low performers peoplematters in
+Meta,news,TechSpot,2025-10-24 07:00:00,2,layoff,meta openly links fresh layoffs to ai driven automation techspot
+Meta,news,Yahoo Finance,2025-10-23 07:00:00,2,job cuts,meta meta stock in red after major job cuts hit artificial intelligence unit yahoo finance
+Meta,news,Business Standard,2025-12-04 08:00:00,2,layoff,meta to cut of metaverse budget as layoffs loom in report business standard
+Meta,news,MSN,2025-12-05 03:24:55,2,layoff,mark zuckerberg plans budget cuts to build metaverse layoffs loom msn
+Meta,news,thestreet.com,2025-05-22 07:00:00,2,layoff,meta quietly plans rude awakening for employees after layoffs thestreet com
+Meta,news,CNBC,2025-04-21 07:00:00,2,layoff,i became an ai prompt engineer after a layoff from meta now i m on the cutting edge of the newest tech obsession cnbc
+Meta,news,qz.com,2025-10-23 07:00:00,2,layoff,the hidden time bomb in the tax code that s fueling mass tech layoffs qz com
+Meta,news,KIRO 7 News Seattle,2025-07-02 07:00:00,2,layoff,despite national layoffs meta ramps up bellevue hiring by about employees kiro news seattle
+Meta,news,Yahoo Finance,2025-08-22 07:00:00,1,hiring freeze,meta s hiring freeze is a meta problem not an ai problem yahoo finance
+Meta,news,Mashable,2025-08-21 16:45:18,1,hiring freeze,meta implements hiring freeze after splitting up its ai superintelligence team mashable
+Meta,news,MarketWatch,2025-08-20 07:00:00,1,restructuring,meta reportedly freezes its ai hiring spree amid wider restructuring marketwatch
+Meta,news,peoplematters.in,2025-08-20 07:00:00,1,hiring freeze,meta s ai ambitions hit pause with sudden hiring freeze peoplematters in
+Meta,news,NAI500,2025-09-06 07:00:00,1,hiring freeze,meta refutes claims of ai hiring freeze massive investments reveal ai ambitions nai
+Meta,news,digitimes,2025-08-21 07:00:00,1,"hiring freeze,restructuring",meta confirms hiring freeze in ai division amid restructuring and prior talent recruitment digitimes
+Meta,news,AppleInsider,2025-08-22 07:00:00,1,hiring freeze,another executive departs apple for meta even as a hiring freeze begins appleinsider
+Meta,news,Proactive financial news,2025-08-21 07:00:00,1,restructuring,meta freezes ai hiring amid talent surge division restructuring nasdaq meta xetra fb a six fb proactive financial news
+Meta,news,Times Now,2025-08-25 07:00:00,1,hiring freeze,meta s ai meltdown hiring freeze talent drain and scrapped projects raise alarms times now
+Meta,news,FourWeekMBA,2025-08-23 07:00:00,1,hiring freeze,meta s ai hiring freeze the m reality check fourweekmba
+Meta,news,TipRanks,2025-08-24 07:00:00,1,hiring freeze,meta poaches another apple employee despite hiring freeze tipranks
+Meta,news,MSN,2025-08-26 12:31:28,1,hiring freeze,meta s ai meltdown hiring freeze talent drain and scrapped projects raise alarms msn
+Meta,news,Gadgets 360,2025-08-21 07:00:00,1,restructuring,meta reportedly freezes hiring in ai division amid restructuring of superintelligence labs gadgets
+Meta,news,Business Today,2025-08-22 07:00:00,1,hiring freeze,meta poaches another apple ai engineer despite ai hiring freeze business today
+Meta,news,Storyboard18,2025-08-21 07:00:00,1,restructuring,meta halts ai hiring amid restructuring of division storyboard
+Meta,news,outlookbusiness.com,2025-08-22 07:00:00,1,hiring freeze,meta snags another senior apple ai exec for superintelligence labs as it mulls hiring freeze outlookbusiness com
+Meta,news,Search Engine Journal,2022-09-29 07:00:00,1,"hiring freeze,restructuring",meta institutes hiring freeze budget cuts corporate restructuring search engine journal
+Meta,news,Business Today,2025-08-21 07:00:00,1,restructuring,basic restructuring says meta as it pauses hiring for zuckerberg s ai superteam business today
+Meta,news,livemint.com,2025-10-23 07:00:00,2,layoff,tech layoffs from meta amazon to google these it majors have cut ai related jobs livemint com
+Meta,news,Business Insider,2022-11-09 08:00:00,2,"hiring freeze,layoff,mass layoff",facebook extends its broad hiring freeze indefinitely amid mass layoffs and a new wave of frugality business insider
+Meta,news,Business Insider,2022-09-29 07:00:00,1,"hiring freeze,restructuring",meta reportedly announced a hiring freeze and warned employees of restructuring business insider
+Meta,news,ETHRWorld.com,2025-04-10 07:00:00,1,hiring freeze,amid hiring freezes few tech and sales driven roles continue to thrive ethrworld com
+Meta,news,HR Grapevine,2025-02-10 08:00:00,2,"layoff,termination",performance terminations meta begins streamlining layoffs with jobs to be cut hr grapevine
+Meta,news,Next Unicorn Ventures,2025-04-23 07:00:00,2,"cost cutting,layoff",meta and other tech giants announce significant layoffs amid cost cutting measures next unicorn ventures
+Meta,news,TECHi,2025-02-21 08:00:00,1,cost cutting,meta s cost cutting fewer stock options bigger executive bonuses techi
+Meta,news,Techerati,2025-02-20 08:00:00,2,layoff,meta layoffs what you need to know now techerati
+Meta,news,The HR Digest,2025-05-13 07:00:00,2,layoff,zuckerberg s intense year means thousands of meta employees face layoffs the hr digest
+Meta,news,The Economic Times,2025-11-02 07:00:00,2,job cuts,over job cuts rattle tech industry in amazon meta google intel lay off thousands of empl the economic times
+Meta,news,HR Grapevine,2025-02-14 08:00:00,2,layoff,not underperformers meta faces employee backlash over large scale performance based layoffs hr grapevine
+Meta,news,The American Bazaar,2025-01-15 08:00:00,2,layoff,meta to cut of low performing staff in layoffs the american bazaar
+Meta,news,financialexpress.com,2025-06-22 07:00:00,2,"cost cutting,layoff,mass layoff",intel amazon meta and other us tech firms announce mass layoffs in citing cost cutting and ai as reasons financialexpress com
+Meta,news,The Economic Times,2025-10-30 07:00:00,2,"layoff,mass layoff",job bloodbath mass layoffs hit america as jobs vanish is this shocking wave of amazon and meta the economic times
+Meta,news,Fast Company,2025-01-17 08:00:00,2,layoff,meta rebranded performance based layoffs as non regrettable attrition fast company
+Meta,news,CNBC TV18,2025-10-30 07:00:00,2,layoff,from amazon to meta and applied materials companies with biggest layoffs of cnbc tv
+Meta,news,Fortune,2025-02-13 08:00:00,2,layoff,meta s low performer layoffs disputed by fired staffers and criticized by experts fortune
+Meta,news,sea.peoplemattersglobal.com,2025-02-17 08:00:00,2,layoff,meta layoffs the ripple effects on employees in singapore sea peoplemattersglobal com
+Meta,news,Fortune,2025-01-29 08:00:00,2,layoff,lvmh ceo bernard arnault came up with a new way to describe layoffs being promoted outwards fortune
+Meta,news,Times of India,2025-04-21 07:00:00,2,"layoff,restructuring",tech layoffs in google microsoft meta and other tech giants cut jobs amid restructuring times of india
+Meta,news,thenationalnews.com,2025-01-15 08:00:00,2,layoff,meta layoffs could bring another wave of cuts in technology jobs thenationalnews com
+Meta,news,International Business Times UK,2025-11-13 08:00:00,2,job cuts,labour hoarding is over major firms lead wave of job cuts as wall street cheers international business times uk
+Meta,news,The Economic Times,2025-09-06 07:00:00,2,layoff,tech layoffs surge in us amazon microsoft meta slash thousands of jobs check full list of compani the economic times
+Meta,news,Business Insider,2025-02-20 08:00:00,1,cost cutting,big tech is on a cost cutting spree to fund big ai bets business insider
+Meta,news,Vulcan Post,2025-08-14 07:00:00,2,layoff,singapore layoffs in microsoft tiktok meta standard chartered among those affected vulcan post
+Meta,news,EdexLive,2025-06-06 07:00:00,2,layoff,over techies lost jobs in so far microsoft google meta record highest layoffs edexlive
+Meta,news,financialexpress.com,2025-04-14 07:00:00,2,layoff,tech layoffs in continue google microsoft meta and others slash jobs financialexpress com
+Meta,news,Analytics Insight,2025-06-26 07:00:00,2,layoff,layoffs in tech industry why intel amazon and meta are reducing size analytics insight
+Meta,news,Times of India,2025-06-22 07:00:00,2,layoff,tech layoffs hit in intel microsoft meta and these tech companies cut thousands of jobs times of india
+Meta,news,Business Standard,2025-06-06 07:00:00,1,cost cutting,amazon lays off employees in books division as part of cost cutting plan business standard
+Meta,news,Hindustan Times,2025-04-25 07:00:00,2,job cuts,meta tightens its belt again job cuts hit reality labs division technology news hindustan times
+Meta,news,Fortune India,2025-03-18 07:00:00,1,cost cutting,amazon to slash managerial jobs in cost cutting drive fortune india
+Meta,news,Republic World,2025-05-08 07:00:00,2,layoff,top tech layoffs of google intel and meta lead the pack republic world
+Meta,news,Latin Times,2025-01-27 08:00:00,2,layoff,layoffs meta microsoft and blackrock join the trend amid ai shift latin times
+Meta,news,Benzinga,2025-08-20 07:00:00,2,layoff,layoffs for ai oracle pulls a meta will investors buy the efficiency story benzinga
+Meta,news,The Washington Post,2025-02-10 08:00:00,2,"job cuts,layoff",tech layoffs reveal the unintended consequences of mass job cuts the washington post
+Meta,news,MARCA,2025-02-22 08:00:00,2,layoff,mark zuckerberg s meta increases executive bonuses following layoffs sparking controversy marca
+Meta,news,Times Now,2025-03-01 08:00:00,2,layoff,tech layoffs meta google among tech giants that slashed jobs in february times now
+Meta,news,The Economic Times,2025-02-08 08:00:00,2,layoff,is a year of layoffs why google amazon microsoft meta and other us tech giants have cut jobs exp the economic times
+Meta,news,The Guardian,2023-04-19 07:00:00,2,layoff,thousands of meta workers hit by new round of layoffs as company cuts costs the guardian
+Meta,news,zoomnews.in,2025-10-23 07:00:00,2,"layoff,restructuring",meta ai layoffs meta lays off employees from ai team amid restructuring drive zoomnews in
+Meta,news,Reuters,2023-03-14 07:00:00,2,layoff,meta to cut jobs in second round of layoffs reuters
+Meta,news,Business Insider,2023-08-01 07:00:00,2,layoff,meta hiring bain preceded layoffs and zukerberg s efficiency push business insider
+Meta,news,Business Today,2025-01-15 08:00:00,2,layoff,meta layoffs whatsapp instagram parent company to fire underperforming employees business today
+Meta,news,Al Jazeera,2023-03-14 07:00:00,2,layoff,facebook owner meta to cut jobs in second round of layoffs al jazeera
+Meta,news,Investopedia,2023-10-25 07:00:00,1,cost cutting,meta s strong ad revenue and cost cutting drive earnings outperformance investopedia
+Meta,news,Bloomberg.com,2024-02-02 08:00:00,2,job cuts,meta s stock price bounce shows how big ticket job cuts can pay off bloomberg com
+Meta,news,The Guardian,2023-05-24 07:00:00,2,"layoff,mass layoff",facebook owner meta begins final round of mass layoffs the guardian
+Meta,news,Fortune,2023-04-20 07:00:00,2,layoff,meta employees says zuckerberg layoffs shattered morale fortune
+Meta,news,IT Pro,2024-10-17 07:00:00,2,layoff,meta layoffs hit staff at whatsapp instagram and reality labs divisions it pro
+Meta,news,Business Insider,2023-03-10 08:00:00,2,layoff,meta s second round of layoffs is coming down next week and expected to be bloodbath business insider
+Meta,news,London Evening Standard,2023-04-20 07:00:00,1,cost cutting,meta to axe hundreds of jobs in london in fresh cost cutting measures london evening standard
+Starbucks,news,king5.com,2025-12-19 04:20:00,2,strike,starbucks workers protest at seattle headquarters as strike expands king com
+Starbucks,news,BBC,2025-12-09 08:00:00,1,union,starbucks workers and unions in countries to protest in support of us baristas bbc
+Starbucks,news,Oklahoma City Free Press,2025-12-22 20:39:42,2,strike,starbucks workers strike shut down okc store over contract oklahoma city free press
+Starbucks,news,Starbucks Workers United,2025-12-18 21:32:27,2,"strike,union",red cup rebellion solidarity surges new union baristas join historic ulp strike amid holiday rush starbucks workers united
+Starbucks,news,Retail TouchPoints,2025-12-19 16:14:00,2,strike,starbucks baristas take strike to company s seattle hq as labor and political support expands retail touchpoints
+Starbucks,news,Reno Gazette Journal,2025-12-20 01:27:00,2,strike,nevada starbucks store closes as barista strike extends for days reno gazette journal
+Starbucks,news,People's World,2025-12-19 14:24:18,2,strike,hollywood labor adds star power to the starbucks workers strike people s world
+Starbucks,news,The Guardian,2025-11-19 08:00:00,2,strike,no contract no coffee what to know about the starbucks workers strike in us cities the guardian
+Starbucks,news,MySaline,2025-12-22 19:09:18,2,strike,video saline county starbucks baristas strike during national red cup rebellion mysaline
+Starbucks,news,Labor Notes |,2025-12-05 08:00:00,2,strike,red cups raised in rebellion starbucks strike spreads labor notes
+Starbucks,news,Real Change News,2025-12-05 08:00:00,2,strike,starbucks baristas go on nationwide strike as bargaining stalls real change news
+Starbucks,news,Reuters,2025-11-28 08:00:00,2,"strike,union",starbucks workers union expands strike to more stores on black friday reuters
+Starbucks,news,ColaDaily.com,2025-12-19 23:30:00,2,strike,columbia starbucks workers join nationwide strike coladaily com
+Starbucks,news,Starbucks Workers United,2025-11-13 17:03:53,2,strike,our strike starbucks workers united
+Starbucks,news,king5.com,2025-12-18 20:10:00,1,union,starbucks union workers rally in seattle king com
+Starbucks,news,king5.com,2025-12-19 04:16:00,2,strike,starbucks workers protest at seattle headquarters as strike expands king com
+Starbucks,news,WOSU Public Media,2025-12-04 08:00:00,1,working conditions,columbus starbucks workers picket over wages working conditions and lack of contract wosu public media
+Starbucks,news,The Seattle Times,2025-12-01 08:00:00,2,"strike,union",starbucks union says strike is longest in company history the seattle times
+Starbucks,news,facebook.com,2025-12-18 01:54:00,2,"strike,union",days strong on a national ulp strike starbucks baristas are standing firm growing louder and demanding what should ve been settled long ago a fair union contract starbucks it s past time nocontractnocoffee facebook com
+Starbucks,news,CT Insider,2025-12-18 23:33:25,2,strike,why workers at two starbucks stores in danbury and west hartford have gone on strike ct insider
+Starbucks,news,Post and Courier,2025-12-18 18:45:00,2,"strike,union",columbia starbucks workers join nationwide strike as union coffee chain fight over contract post and courier
+Starbucks,news,Reuters,2025-12-11 08:00:00,2,"strike,union",starbucks workers union takes month long strike to more cities reuters
+Starbucks,news,Anadolu Ajansı,2025-11-13 08:00:00,2,strike,starbucks workers go on nationwide strike in us over unfair labor practices anadolu ajans
+Starbucks,news,Starbucks Workers United,2025-11-20 08:00:00,2,"strike,union",union starbucks baristas unfair labor practice strike grows as workers in new cities join historic action starbucks workers united
+Starbucks,news,The Saline Courier,2025-12-22 14:50:00,2,strike,benton starbucks strike spreads to little rock store as workers cite pay hours concerns the saline courier
+Starbucks,news,Reuters,2025-11-13 08:00:00,1,union,starbucks union baristas walk out on red cup day in push for contract talks reuters
+Starbucks,news,Starbucks Workers United,2025-11-05 20:29:12,2,"strike,union",with yes vote union starbucks baristas overwhelmingly authorize ulp strike starbucks workers united
+Starbucks,news,fox40.com,2025-12-05 08:00:00,2,"strike,union",starbucks union strike reaches days longest in company s history fox com
+Starbucks,news,Forbes,2025-12-12 08:00:00,2,strike,starbucks strike drags into second month as deadlock deepens and global support grows forbes
+Starbucks,news,Indiana Daily Student,2025-11-29 08:00:00,2,strike,no contract no coffee bloomington starbucks workers join national strike indiana daily student
+Starbucks,news,Times Union,2025-12-15 22:50:20,2,"strike,union",ulster baristas rally for contract amid national starbucks strike times union
+Starbucks,news,CBC,2025-11-14 08:00:00,2,strike,some starbucks workers in the u s are on strike here s why cbc
+Starbucks,news,WFSB,2025-12-12 08:00:00,2,strike,starbucks workers in west hartford to join national strike over labor practices wfsb
+Starbucks,news,Chambana Today,2025-12-18 17:01:47,2,strike,urbana starbucks baristas join nationwide unfair labor practice strike chambana today
+Starbucks,news,KUOW,2025-11-13 08:00:00,2,"strike,union",unionized starbucks workers strike in seattle across the country kuow
+Starbucks,news,FFXnow,2025-12-04 08:00:00,2,strike,merrifield starbucks workers begin picketing as nationwide strike continues ffxnow
+Starbucks,news,GoLocalProv,2025-12-11 08:00:00,2,strike,business workers strike providence starbucks indefinitely golocalprov
+Starbucks,news,The Daily Cardinal,2025-12-09 08:00:00,2,strike,no contract no coffee state street starbucks workers join national strike the daily cardinal
+Starbucks,news,Atlanta Civic Circle,2025-12-17 22:22:14,2,"strike,union",union doings wrap up peak season starbucks strike keeps perking atlanta civic circle
+Starbucks,news,Bring Me The News,2025-12-18 15:31:43,1,union,two more twin cities area starbucks vote to unionize bring me the news
+Starbucks,news,Los Angeles Times,2025-11-25 08:00:00,1,union,unionized starbucks baristas bring red cup rebellion to ceo s newport beach office los angeles times
+Starbucks,news,InDepthNH.org,2025-12-04 08:00:00,2,strike,starbucks barista strike reaches new hampshire indepthnh org
+Starbucks,news,The Diamondback,2025-12-11 08:00:00,2,"strike,working conditions",college park starbucks baristas strike for new contract better working conditions the diamondback
+Starbucks,news,ntdaily.com,2025-12-05 08:00:00,2,"strike,union",a union is a democracy in the workplace starbucks union workers continue longest strike against alleged unfair labor practices ntdaily com
+Starbucks,news,Oregon Public Broadcasting - OPB,2025-11-13 08:00:00,2,strike,starbucks workers in oregon communities join store us strike on company s busy red cup day oregon public broadcasting opb
+Starbucks,news,KCRG,2025-12-04 08:00:00,2,strike,iowa starbucks workers join national strike kcrg
+Starbucks,news,KCCI,2025-12-05 08:00:00,2,strike,des moines starbucks workers strike for better staffing and wages kcci
+Starbucks,news,Willamette Week,2025-12-13 08:00:00,2,strike,starbucks workers rally one month into strike willamette week
+Starbucks,news,News and Sentinel,2025-11-29 08:00:00,1,union,picture this protesters express solidarity with unionizing starbucks employees news and sentinel
+Starbucks,news,Atlanta Civic Circle,2025-12-09 08:00:00,2,strike,one month into starbucks strike community support buoys atlanta baristas atlanta civic circle
+Starbucks,news,Worcester Telegram,2025-12-04 08:00:00,2,strike,workers strike at starbucks on east central street in worcester worcester telegram
+Starbucks,news,Iowa City Press-Citizen,2025-12-05 08:00:00,2,strike,iowa city starbucks workers brave the cold to join national strike iowa city press citizen
+Starbucks,news,local21news.com,2025-12-15 14:45:48,2,strike,watch starbucks baristas strike again outside york distribution center local news com
+Starbucks,news,KOMO,2025-11-16 08:00:00,2,strike,starbucks workers nationwide strike temporarily closes seattle store komo
+Starbucks,news,Benzinga,2025-12-22 13:45:49,2,"strike,union",starbucks workers union occupy seattle hq in escalating strike until new proposals are brought benzinga
+Starbucks,news,NEWS10 ABC,2025-12-15 19:59:18,2,"strike,union",kingston baristas strike outside union starbucks news abc
+Starbucks,news,BBC,2025-11-13 08:00:00,2,"strike,union",starbucks union workers go on strike on busy red cup day bbc
+Starbucks,news,San Antonio Express-News,2025-12-05 08:00:00,2,strike,no contract no coffee local starbucks baristas strike for better pay hours san antonio express news
+Starbucks,news,WMTV 15 NEWS,2025-11-28 08:00:00,2,"strike,union",madison baristas join in on store starbucks union strike wmtv news
+Starbucks,news,The Coloradoan,2025-12-04 08:00:00,2,strike,some fort collins baristas join nationwide starbucks strike the coloradoan
+Starbucks,news,IndyStar,2025-12-11 08:00:00,2,strike,mass ave starbucks closed for days as nationwide strike continues indystar
+Starbucks,news,USA Today,2025-11-18 08:00:00,2,"strike,union",are starbucks workers still on strike union says company has made no contact usa today
+Starbucks,news,Iowa Capital Dispatch,2025-10-28 07:00:00,2,"strike,union",unionized starbucks workers rally in des moines ahead of potential national strike iowa capital dispatch
+Starbucks,news,Sprudge,2025-11-20 08:00:00,2,strike,over starbucks workers nationwide are on an open ended strike sprudge
+Starbucks,news,WBAL-TV,2025-11-28 08:00:00,2,"strike,union",starbucks baristas strike as more stores poised to unionize wbal tv
+Starbucks,news,"New York City Central Labor Council, AFL-CIO",2025-11-14 08:00:00,2,"strike,union",union starbucks baristas launch unfair labor practice strike in cities nationwide new york city central labor council afl cio
+Starbucks,news,WMUR,2025-12-04 08:00:00,2,strike,starbucks workers in stratham epping and seabrook join nationwide strike wmur
+Starbucks,news,USA Today,2025-11-06 08:00:00,2,"strike,union",starbucks union says it plans to strike on red cup day if contract not reached usa today
+Starbucks,news,USA Today,2025-12-02 08:00:00,2,strike,starbucks strike enters week can you still get a peppermint mocha usa today
+Starbucks,news,kdvr.com,2025-12-11 08:00:00,2,"strike,union",some union starbucks baristas in denver join strike here s what to know kdvr com
+Starbucks,news,Evanston Now,2025-11-13 08:00:00,2,strike,starbucks workers go on strike evanston now
+Starbucks,news,Times Union,2025-11-20 08:00:00,2,"strike,union",albany baristas join national starbucks strike times union
+Starbucks,news,The Daily Northwestern,2025-11-14 08:00:00,1,union,starbucks workers union rallies in evanston to finalize contract on company s biggest day of the year the daily northwestern
+Starbucks,news,The Des Moines Register,2025-10-28 07:00:00,1,union,unionized baristas at starbucks on merle hay road protest in support of a contract the des moines register
+Starbucks,news,dailyuw.com,2025-11-19 08:00:00,2,strike,ave starbucks employees picket in part of nationwide strike dailyuw com
+Starbucks,news,USA Today,2025-11-14 08:00:00,2,"strike,union",starbucks union says it expects largest longest strike in company history usa today
+Starbucks,news,WBUR,2025-11-24 08:00:00,2,strike,starbucks baristas strike at nearly locations here now wbur
+Starbucks,news,Action News 5,2025-11-30 08:00:00,2,strike,starbucks workers strike outside memphis store on poplar avenue action news
+Starbucks,news,king5.com,2025-11-13 08:00:00,2,strike,starbucks workers picket on red cup day as nationwide strike disrupts seattle locations king com
+Starbucks,news,Al Jazeera,2025-12-05 08:00:00,1,union,starbucks union workers face off as old tensions over wages spill over al jazeera
+Starbucks,news,Starbucks Workers United,2025-12-18 21:32:27,2,"strike,union",red cup rebellion solidarity surges new union baristas join historic ulp strike amid holiday rush starbucks workers united
+Starbucks,news,The Guardian,2025-12-02 08:00:00,2,"strike,union",we re not going anywhere how unionization whirlwind set stage for historic starbucks strike the guardian
+Starbucks,news,CNN,2025-12-09 08:00:00,1,union,starbucks workers are still without a labor deal four years after their first union win here s why cnn
+Starbucks,news,BBC,2025-12-09 08:00:00,1,union,starbucks workers and unions in countries to protest in support of us baristas bbc
+Starbucks,news,king5.com,2025-12-19 04:20:00,2,strike,starbucks workers protest at seattle headquarters as strike expands king com
+Starbucks,news,WHSV,2025-12-22 23:10:00,1,union,harrisonburg starbucks baristas vote to unionize join starbucks workers united whsv
+Starbucks,news,Reno Gazette Journal,2025-12-20 01:27:00,2,strike,nevada starbucks store closes as barista strike extends for days reno gazette journal
+Starbucks,news,WIS News 10,2025-12-18 13:35:00,1,union,columbia union starbucks baristas join red cup rebellion wis news
+Starbucks,news,Bring Me The News,2025-12-18 15:31:43,1,union,two more twin cities area starbucks vote to unionize bring me the news
+Starbucks,news,CNBC,2025-12-04 08:00:00,2,strike,starbucks workers united holds rally in nyc as strikes continue for a third week cnbc
+Starbucks,news,Retail TouchPoints,2025-12-19 16:14:00,2,strike,starbucks baristas take strike to company s seattle hq as labor and political support expands retail touchpoints
+Starbucks,news,Nation’s Restaurant News,2025-12-04 08:00:00,1,union,inside the growing divide between starbucks and its union nation s restaurant news
+Starbucks,news,king5.com,2025-12-18 20:10:00,1,union,starbucks union workers rally in seattle king com
+Starbucks,news,The Guardian,2025-11-19 08:00:00,2,strike,no contract no coffee what to know about the starbucks workers strike in us cities the guardian
+Starbucks,news,BBC,2025-11-13 08:00:00,2,"strike,union",starbucks union workers go on strike on busy red cup day bbc
+Starbucks,news,CNBC,2025-11-28 08:00:00,2,"strike,union",starbucks workers union escalates strike on black friday cnbc
+Starbucks,news,Reuters,2025-12-11 08:00:00,2,"strike,union",starbucks workers union takes month long strike to more cities reuters
+Starbucks,news,Labor Notes |,2025-12-05 08:00:00,2,strike,red cups raised in rebellion starbucks strike spreads labor notes
+Starbucks,news,qz.com,2025-11-28 08:00:00,2,"strike,union",starbucks union ramps up strike targeting black friday sales qz com
+Starbucks,news,CNBC,2025-11-10 08:00:00,1,union,more than lawmakers push starbucks to resume union negotiations cnbc
+Starbucks,news,Reuters,2025-11-28 08:00:00,2,"strike,union",starbucks workers union expands strike to more stores on black friday reuters
+Starbucks,news,TipRanks,2025-12-22 17:33:01,2,"strike,union,union busting",historic union busting starbucks stock nasdaq sbux slips as strikes gain ground draw congress reps tipranks
+Starbucks,news,PBS,2025-12-02 08:00:00,2,strike,starbucks to pay m to nyc workers in settlement as ongoing strike draws mamdani and sanders to picket line pbs
+Starbucks,news,Chambana Today,2025-12-18 17:01:47,2,strike,urbana starbucks baristas join nationwide unfair labor practice strike chambana today
+Starbucks,news,People's World,2025-12-19 14:24:18,2,strike,hollywood labor adds star power to the starbucks workers strike people s world
+Starbucks,news,Times Union,2025-12-15 22:50:20,2,"strike,union",ulster baristas rally for contract amid national starbucks strike times union
+Starbucks,news,WJAR,2025-12-21 02:08:50,1,union,state representative joins starbucks union workers on picket line wjar
+Starbucks,news,The Saline Courier,2025-12-22 14:50:00,2,strike,benton starbucks strike spreads to little rock store as workers cite pay hours concerns the saline courier
+Starbucks,news,Starbucks Workers United,2025-11-20 08:00:00,2,"strike,union",union starbucks baristas unfair labor practice strike grows as workers in new cities join historic action starbucks workers united
+Starbucks,news,ntdaily.com,2025-12-05 08:00:00,2,"strike,union",a union is a democracy in the workplace starbucks union workers continue longest strike against alleged unfair labor practices ntdaily com
+Starbucks,news,Al Jazeera,2025-11-13 08:00:00,2,"strike,union",unionised starbucks workers begin open ended us strike al jazeera
+Starbucks,news,AP News,2025-11-20 08:00:00,2,"strike,union",starbucks union says more us stores are joining week old strike ap news
+Starbucks,news,BBC,2025-11-12 08:00:00,2,strike,starbucks staff strikes could undermine its turnaround plans bbc
+Starbucks,news,Starbucks Workers United,2025-11-13 17:03:53,2,strike,our strike starbucks workers united
+Starbucks,news,fox40.com,2025-12-05 08:00:00,2,"strike,union",starbucks union strike reaches days longest in company s history fox com
+Starbucks,news,The Guardian,2025-09-07 07:00:00,1,union,a year under ceo niccol starbucks workers long fight for a union contract the guardian
+Starbucks,news,facebook.com,2025-12-21 16:14:04,2,"strike,union,union busting",starbucks baristas are now days into a national ulp strike and still standing strong this fight is about ending union busting and securing a fair contract and workers are ready to keep going until that happens we re with you sending solidarity to the striki facebook com
+Starbucks,news,CNBC,2025-11-05 08:00:00,2,"strike,union",starbucks union authorizes open ended strike as busy holiday season begins cnbc
+Starbucks,news,The Seattle Times,2025-12-01 08:00:00,2,"strike,union",starbucks union says strike is longest in company history the seattle times
+Starbucks,news,Starbucks Workers United,2025-11-05 20:29:12,2,"strike,union",with yes vote union starbucks baristas overwhelmingly authorize ulp strike starbucks workers united
+Starbucks,news,The Guardian,2025-10-31 07:00:00,2,strike,starbucks workers hold strike vote amid anger over pay and conditions the guardian
+Starbucks,news,WMTV 15 NEWS,2025-11-28 08:00:00,2,"strike,union",madison baristas join in on store starbucks union strike wmtv news
+Starbucks,news,Benzinga,2025-12-22 13:45:49,2,"strike,union",starbucks workers union occupy seattle hq in escalating strike until new proposals are brought benzinga
+Starbucks,news,CNBC,2025-11-13 08:00:00,2,"strike,union",starbucks workers union launches strike in more than cities on chain s key holiday sales day cnbc
+Starbucks,news,The Courier-Journal,2025-12-05 08:00:00,1,union,union baristas picket in louisville for new starbucks contract the courier journal
+Starbucks,news,In These Times,2025-11-15 08:00:00,2,strike,facing unprecedented labor violations starbucks workers overwhelmingly agree to strike indefinitely in these times
+Starbucks,news,CNBC,2025-11-20 08:00:00,2,strike,starbucks workers united escalates strike during busy holiday season cnbc
+Starbucks,news,Post and Courier,2025-12-18 18:45:00,2,"strike,union",columbia starbucks workers join nationwide strike as union coffee chain fight over contract post and courier
+Starbucks,news,CNBC,2025-10-23 07:00:00,2,strike,starbucks workers united set to vote on strike authorization cnbc
+Starbucks,news,Reuters,2025-11-13 08:00:00,1,union,tracking starbucks battles with workers union reuters
+Starbucks,news,Center for American Progress,2025-10-28 07:00:00,1,union,the fight to unionize starbucks by the numbers center for american progress
+Starbucks,news,"New York City Central Labor Council, AFL-CIO",2025-11-14 08:00:00,2,"strike,union",union starbucks baristas launch unfair labor practice strike in cities nationwide new york city central labor council afl cio
+Starbucks,news,Starbucks Workers United,2025-11-17 08:00:00,2,"strike,union",union baristas are on strike over starbucks record breaking labor law violations starbucks workers united
+Starbucks,news,NPR for Oregonians,2025-10-03 07:00:00,1,union,starbucks union workers in eugene picket for a fair contract and livable wages npr for oregonians
+Starbucks,news,USW Canada,2025-07-04 07:00:00,1,union,starbucks baristas in burnaby join union for respect and authenticity at work usw canada
+Starbucks,news,NEWS10 ABC,2025-12-15 19:59:18,2,"strike,union",kingston baristas strike outside union starbucks news abc
+Starbucks,news,Channel 3000,2025-11-28 08:00:00,2,"strike,union",madison fitchburg starbucks baristas joining major union strike on black friday channel
+Starbucks,news,Ragan Communications,2025-11-14 08:00:00,1,union,starbucks and workers union spar in statements paramount tells employees the minute details of rto process ragan communications
+Starbucks,news,CBS News,2025-11-13 08:00:00,2,"strike,union",starbucks unionized workers go on strike demanding labor contract cbs news
+Starbucks,news,CBC,2025-11-14 08:00:00,2,strike,some starbucks workers in the u s are on strike here s why cbc
+Starbucks,news,kdvr.com,2025-12-11 08:00:00,2,"strike,union",some union starbucks baristas in denver join strike here s what to know kdvr com
+Starbucks,news,CBS News,2025-11-05 08:00:00,2,"strike,union",starbucks unionized workers say they ll strike on nov if coffee giant doesn t finalize contract cbs news
+Starbucks,news,Jacobin,2025-11-19 08:00:00,2,strike,starbucks workers strike against foot dragging in bargaining jacobin
+Starbucks,news,USA Today,2025-11-14 08:00:00,2,"strike,union",starbucks union says it expects largest longest strike in company history usa today
+Starbucks,news,National Right to Work Legal Defense Foundation,2025-09-12 07:00:00,1,union,ny starbucks barista asks federal labor board to restore employees right to vote out sbwu union officials national right to work legal defense foundation
+Starbucks,news,In These Times,2025-09-15 07:00:00,2,strike,starbucks is on the ropes says sbwu president lynne fox who is eyeing a strike in these times
+Starbucks,news,WBAL-TV,2025-11-28 08:00:00,2,"strike,union",starbucks baristas strike as more stores poised to unionize wbal tv
+Starbucks,news,Nation’s Restaurant News,2025-10-01 07:00:00,1,union,starbucks union wins negotiations after store closures nation s restaurant news
+Starbucks,news,AP News,2025-11-05 08:00:00,2,"strike,union",starbucks union workers plan strike next week unless company agrees to a contract ap news
+Starbucks,news,Starbucks Workers United,2025-10-17 00:27:34,1,union,starbucks investors call on company to restart negotiations with union baristas starbucks workers united
+Starbucks,news,Reuters,2025-11-13 08:00:00,1,union,starbucks union baristas walk out on red cup day in push for contract talks reuters
+Starbucks,news,The Des Moines Register,2025-10-29 07:00:00,1,union,despite rain merle hay starbucks union pickets for contract with company the des moines register
+Starbucks,news,Reuters,2025-11-10 08:00:00,1,union,us lawmakers urge starbucks ceo to restart union talks reuters
+Starbucks,news,Chicago Sun-Times,2025-11-06 08:00:00,2,"strike,union",starbucks union workers planning strike unless company agrees to a contract chicago sun times
+Starbucks,news,Jacobin,2025-11-15 08:00:00,2,"strike,union",unionized starbucks workers are on strike across the us jacobin
+Starbucks,news,Rabble.ca,2025-12-02 08:00:00,1,union,want a union with that latte starbucks workers are organizing rabble ca
+Starbucks,news,Reuters,2025-11-05 08:00:00,2,"strike,union",starbucks workers union vote to authorize strike amid stalled talks reuters
+Starbucks,news,The Seattle Times,2025-11-05 08:00:00,2,"strike,union",starbucks union authorizes a strike on red cup day next week the seattle times
+Starbucks,news,Oregon Public Broadcasting - OPB,2025-11-13 08:00:00,2,strike,starbucks workers in oregon communities join store us strike on company s busy red cup day oregon public broadcasting opb
+Starbucks,news,Unite the Union,2025-07-30 07:00:00,2,"union,union busting",unite hits out at union busting firm supplying coffee chain starbucks unite the union
+Starbucks,news,Los Angeles Times,2025-11-13 08:00:00,2,"strike,union",starbucks union launches red cup day strike at dozens of stores including in california los angeles times
+Starbucks,news,KOMU 8,2025-09-04 07:00:00,1,union,second starbucks in columbia votes to form labor union komu
+Starbucks,news,The Des Moines Register,2025-12-04 08:00:00,2,"strike,union",unionized starbucks baristas in iowa join national strike the des moines register
+Starbucks,news,CBS News,2025-12-06 08:00:00,1,union,starbucks workers say coffee chain is refusing to finalize their union contract cbs news
+Starbucks,news,Labor Notes |,2025-08-13 07:00:00,1,union,salts and peppers build a union at starbucks labor notes
+Starbucks,news,ABC7 New York,2025-12-01 08:00:00,2,lawsuit,nyc announces m settlement with starbucks baristas in worker protection lawsuit abc new york
+Starbucks,news,Fortune,2025-03-06 08:00:00,2,layoff,starbucks layoffs weren t about cutting costs ceo tells remaining workers we re not effective fortune
+Starbucks,news,Los Angeles Times,2025-10-20 07:00:00,1,union,unionized baristas want olympics to drop starbucks as its official coffee partner los angeles times
+Starbucks,news,In These Times,2025-11-13 08:00:00,2,strike,starbucks workers have launched a nationwide strike and consumer boycott of the coffee chain in these times
+Starbucks,news,Trinitonian,2025-04-18 07:00:00,2,strike,starbucks baristas strike amid venti sized problems trinitonian
+Starbucks,news,Orlando Weekly,2025-05-12 07:00:00,2,strike,starbucks workers near orlando walk off the job in one day strike orlando weekly
+Starbucks,news,AOL.com,2025-10-20 07:00:00,1,union,unionized baristas want olympics to drop starbucks as its official coffee partner aol com
+Starbucks,news,thestreet.com,2025-03-08 08:00:00,2,layoff,starbucks ceo has a tough message for employees after layoffs thestreet com
+Starbucks,news,HRMorning,2025-02-17 08:00:00,2,lawsuit,new lawsuit tests starbucks dei policy big issues to watch hrmorning
+Starbucks,news,CBC,2025-02-14 08:00:00,1,union,b c labour relations board finds starbucks made threats against pro union employee cbc
+Starbucks,news,Bloomberg.com,2025-01-09 08:00:00,1,union,starbucks union files federal complaints signaling renewed hostilities bloomberg com
+Starbucks,news,thestreet.com,2025-03-20 07:00:00,2,layoff,starbucks ceo mounts pressure on employees after layoffs thestreet com
+Starbucks,news,CNBC,2023-11-16 08:00:00,2,"strike,union",starbucks workers file more labor complaints with nyc as union goes on largest ever strike cnbc
+Starbucks,news,Economic Policy Institute,2025-01-28 08:00:00,2,"union,union busting",corporate union busting in plain sight economic policy institute
+Starbucks,news,Al Jazeera,2024-12-20 08:00:00,2,"strike,union",starbucks workers union goes on strike in us cities al jazeera
+Starbucks,news,USW Canada,2023-11-15 08:00:00,1,union,vancouver starbucks barista fired for union support usw canada
+Starbucks,news,The Seattle Times,2022-03-15 07:00:00,1,union,starbucks retaliated against pro union staff nlrb alleges the seattle times
+Starbucks,news,HR Grapevine,2023-12-15 08:00:00,1,union,starbucks survives union complaint admits need for progress and faces fresh allegation all on same day talent hr grapevine
+Starbucks,news,The Augusta Chronicle,2022-12-15 08:00:00,1,union,effort to reinstate fired augusta starbucks worker trying to unionize to go before judge the augusta chronicle
+Starbucks,news,Global News,2023-11-21 08:00:00,1,union,vancouver starbucks employee says she was fired after helping workers unionize global news
+Starbucks,news,Courthouse News,2023-10-18 07:00:00,1,union,starbucks sues employee unions over pro palestine social media posts courthouse news
+Starbucks,news,Business Insider,2023-03-29 07:00:00,1,union,starbucks is probably the best first job in america former ceo says as congress probes the chain s treatment of unions business insider
+Starbucks,news,PBS,2022-08-25 07:00:00,1,union,labor board files complaint against starbucks for withholding raises from unionized stores pbs
+Starbucks,news,The Guardian,2022-10-16 07:00:00,1,union,more workers say starbucks retaliated for union efforts i lost everything when they fired me the guardian
+Starbucks,news,PBS,2023-03-29 07:00:00,1,union,why scrutiny of starbucks alleged union violations is boiling over now pbs
+Starbucks,news,ABC News,2023-06-16 07:00:00,2,lawsuit,starbucks discrimination lawsuit awarded white employee million legal experts weigh in abc news
+Starbucks,news,CNN,2023-09-29 07:00:00,1,union,judge starbucks violated federal labor law by withholding pay hikes from unionized workers cnn
+Starbucks,news,The New York Times,2021-10-18 07:00:00,1,union,starbucks faces rare union challenge as buffalo workers seek vote published the new york times
+Starbucks,news,NPR,2022-10-02 07:00:00,1,union,starbucks workers have unionized at record speed many fear retaliation now npr
+Starbucks,news,Restaurant Dive,2022-05-12 07:00:00,1,union,why the nlrb s starbucks complaint may only be symbolic union win restaurant dive
+Starbucks,news,CBS News,2023-11-16 08:00:00,2,strike,starbucks workers stage strike on coffee chain s red cup day cbs news
+Starbucks,news,HR Grapevine,2024-05-31 07:00:00,1,union,cautiously optimistic starbucks resumes bargaining as wave of unionized stores demand better pay staffing safety hr grapevine
+Starbucks,news,Business Insider,2022-04-17 07:00:00,1,union,starbucks employees detail pattern of corporate retaliation for their unionization efforts in arizona business insider
+Starbucks,news,Knoxville News Sentinel,2023-01-13 08:00:00,2,"labor dispute,union",judge will sort out labor dispute at unionized knoxville starbucks knoxville news sentinel
+Starbucks,news,WRAL,2024-02-22 08:00:00,1,union,starbucks employees in durham report problems after decision to unionize wral
+Starbucks,news,prnewsonline.com,2022-05-17 07:00:00,1,union,starbucks labor controversy sparks discussion about unionizing and company reputation prnewsonline com
+Starbucks,news,The Washington Post,2022-05-11 07:00:00,1,union,nlrb presses starbucks to reinstate fired workers tied to union drive the washington post
+Starbucks,news,The New York Times,2024-01-05 08:00:00,1,union,starbucks faces new pressure over union campaign published the new york times
+Starbucks,news,99.9 KTDY,2022-08-04 07:00:00,1,union,lafayette starbucks employees announce plans to unionize ktdy
+Starbucks,news,Sacramento Bee,2023-12-15 08:00:00,2,"union,union busting",starbucks closed more than stores in union busting move feds say what to know sacramento bee
+Starbucks,news,NBC News,2022-11-04 07:00:00,1,union,worker complaints alleging anti union shutdowns surge nbc news
+Starbucks,news,New York Post,2023-05-22 07:00:00,1,union,starbucks union organizer testified before congress without disclosing she was paid nearly k new york post
+Starbucks,news,Bergen Record,2022-07-12 07:00:00,1,union,montclair starbucks workers to vote on joining union understaffing a key concern bergen record
+Meta,wikipedia,,,2,"class action,lawsuit",on may regulators fromwall street sfinancial industry regulatory authorityannounced that they had begun to investigate whether banks underwriting facebook had improperly shared information only with select clients rather than the general public massachusettssecretary of statewilliam f galvinsubpoenaedmorgan stanleyover the same issue the allegations sparked fury among some investors and led to the immediate filing of several lawsuits one of them aclass actionsuit claiming more than billion in losses due to the ipo bloombergestimated thatretail investorsmay have lost approximately million on facebook stock since its debut s p global ratingsadded facebook to itss p index on december
+Meta,wikipedia,,,2,layoff,in november meta laid off employees of its workforce zuckerberg said the decision to aggressively increase meta s investments had been a mistake as he had wrongly predicted that the surge in e commerce would last beyond the covid pandemic he also attributed the decline to increased competition a global economic downturn and ads signal loss plans to lay off a further employees began in april the layoffs were part of a general downturn in the technology industry alongside layoffs by companies includinggoogle amazon tesla snap twitterandlyft
+Meta,wikipedia,,,2,layoff,in march meta announced a new round of layoffs that would cut employees and close open positions to make the company more efficient meta revenue surpassed analyst expectations for the first quarter of after announcing that it was increasing its focus on ai on july meta launched a new app threads a competitor to twitter
+Meta,wikipedia,,,2,lawsuit,in january meta announced plans to roll back itsdiversity equity and inclusion dei initiatives citing shifts in the legal and policy landscape in the united states followingthe presidential election the decision followed reports that ceo mark zuckerberg sought to align the company more closely with theincoming trump administration including changes to content moderation policies and executive leadership the new content moderation policies continued to bar insults about a person s intellect or mental illness but made an exception to allow callinglgbtqpeople mentally ill because they are gay ortransgender later that month meta agreed to pay million to settle a lawsuit brought bydonald trumpfor suspending his social media accounts after thejanuary riots changes to meta s moderation policies were controversial among its oversight board with a significant divide in opinion between the board s us conservatives and its global members
+Meta,wikipedia,,,2,"layoff,mass layoff",in october it was announced that meta would be laying off employees in the artificial intelligence unit to perform better and simpler they referred to their ai unit as bloated and are seeking to trim down the department this mass layoff is going to impact meta s ai infrastructure units fundamental artificial intelligence research unit fair and other product related positions
+Meta,wikipedia,,,2,lawsuit,numerous lawsuits have been filed against the company both when it was known as facebook inc and as meta platforms
+Meta,wikipedia,,,2,lawsuit,on december the u s federal trade commissionand states excluding alabama georgia south carolina and south dakota thedistrict of columbiaand the territory ofguam launchedfederal trade commission v facebookas an antitrust lawsuit against facebook the lawsuit concerns facebook s acquisition of two competitors instagramandwhatsapp and the ensuing monopolistic situation ftc alleges that facebook holds monopolistic power in the u s social networking market and seeks to force the company to divest from instagram and whatsapp to break up the conglomerate william kovacic a former chairman of the federal trade commission argued the case will be difficult to win as it would require the government to create a counterfactual argument of an internet where the facebook whatsapp instagram entity did not exist and prove that harmed competition or consumers in november it was ruled that meta did not violate antitrust laws and holds no monopoly in the market
+Meta,wikipedia,,,2,"lawsuit,working conditions",in may a lawsuit was filed in kenya against meta and its local outsourcing companysama allegedly meta has poor working conditions in kenya forworkers moderatingfacebook posts according to the lawsuit screeners were declared redundant with confusing reasoning the lawsuit seeks financial compensation and an order that outsourced moderators be given the same health benefits and pay scale as meta employees
+Meta,wikipedia,,,2,lawsuit,in june lawsuits were filed across the u s over the allege that excessive exposure to platforms including facebook and instagram has led to attempted or actual suicides eating disorders and sleeplessness among other issues the litigation follows a former facebook employee s testimony in congress that the company refused to take responsibility the company noted that tools have been developed for parents to keep track of their children s activity on instagram and set time limits in addition to meta s take a break reminders in addition the company is providing resources specific to eating disorders as well as developing ai to prevent children under the age of signing up for facebook or instagram
+Meta,wikipedia,,,2,lawsuit,in june meta settled a lawsuit with theus department of justice the lawsuit which was filed in alleged that the company enabled housing discrimination through targeted advertising as it allowed homeowners and landlords to run housing ads excluding people based on sex race religion and other characteristics the u s department of justice stated that this was in violation of thefair housing act meta was handed a penalty of and given until december to shadow the algorithm tool
+Meta,wikipedia,,,1,union,in january meta was fined million for violations of the european uniongeneral data protection regulation
+Meta,wikipedia,,,1,union,in may theeuropean data protection boardfined meta a record billion for breaching european union data privacy laws by transferring personal data of facebook users to servers in the u s
+Meta,wikipedia,,,2,lawsuit,in july meta agreed to pay the state oftexasus billionto settle a lawsuit brought by texas attorney generalken paxtonaccusing the company of collecting users biometricdata without consent setting a record for the largest privacy related settlement ever obtained by a state attorney general
+Meta,wikipedia,,,2,lawsuit,in october meta platforms faced lawsuits in japan from plaintiffs who claimed they were defrauded by fake investment ads on facebook and instagram featuring false celebrity endorsements the plaintiffs are seeking approximately million in damages
+Meta,wikipedia,,,2,lawsuit,in april thekenyan high courtruled that aus billionlawsuit in which three plaintiffs claim that facebook inflamed civil violence inethiopiain could proceed
+Meta,wikipedia,,,2,lawsuit,in the company ureputation which had been involved in several cases concerning the management of digital armies clarification needed filed a lawsuit against facebook accusing it of unlawfully transmitting personal data to third parties legal actions were initiated in tunisia france and the united states in the united states district court for the northern district of georgia approved a discovery procedure allowing ureputation to access documents and evidence held by meta
+Meta,wikipedia,,,1,union,facebook co founder chris hughes has stated that chief executive officer mark zuckerberg has too much power that the company is now a monopoly and that as a result it should be split into multiple smaller companies in anop edinthe new york times hughes said he was concerned that zuckerberg had surrounded himself with a team that did not challenge him and that it is the u s government s job to hold him accountable and curb his unchecked power he also said that mark s power is unprecedented and un american several u s politicians agreed with hughes european unioncommissioner for competitionmargrethe vestager stated that splitting facebook should be done only as a remedy of the very last resort and that it would not solve facebook s underlying problems
+Starbucks,wikipedia,,,2,layoff,in july during thegreat recession starbucks announced it was closing underperforming company owned stores and cutting u s expansion plans amid growing economic uncertainty on july starbucks also cut almost non retail jobs as part of its bid to re energize the brand and boost its profit of the new cuts of the positions were layoffs and the rest were unfilled jobs
+Starbucks,wikipedia,,,1,union,three of the company s stores inbuffalo new yorkbegan an attempt to unionize in august usingtwitter the workers announced they had formed an organizing committee starbucks workers united to form a union affiliated withworkers united two more stores joined the effort in september however these petitions were later withdrawn to ensure a speedy process for the original three locations during the union drive the company sent other managers and executives including its north america retail president to buffalo to engage with employees about operational issues and participate in their work employees were forced to attendcaptive audience meetingsthat contained anti union messages starbucks temporarily closed some area stores for remodeling and added excessive staff to one of the stores preparing to vote workers said this reduced union support there while starbucks said the support was meant to compensate for increased sick leave during the pandemic as it had done elsewhere in the country on november workers united filed three more petitions for elections to represent workers at additional buffalo area stores on november thenational labor relations boardmailed out votes for the elections at the original three locations votes for the original three stores were counted on december days before the vote count the nlrb rejected arguments by starbucks to halt the election
+Starbucks,wikipedia,,,1,union,inspired by their colleagues in buffalo workers at a starbucks store in mesa arizona petitioned the nlrb for a union election on november to be represented by workers united the organizing at the mesa location stemmed from in part a well liked manager being terminated after whistle blowing on starbucks anti union plan
+Starbucks,wikipedia,,,2,"union,union busting",starbucks temporarily closed two stores participating in the union drive in october for renovations the company claimed these closures were unrelated to the unionization efforts starbucks began working withlittler mendelson a self described union busting firm in october starbucks requested that the national labor relations board include all buffalo starbucks locations in the union vote however the nlrb rejected this argument and declared store by store elections finally on december the workers at the elmwood avenue store became the first unionized starbucks workers at a starbucks owned location in the united states with a vote the camp road location voted not to be in the union starbucks does have unionized locations in other countries
+Starbucks,wikipedia,,,1,union,on december workers at two boston area locations petitioned the nlrb for union elections to be unionize with workers united the workers cited the win in buffalo as inspiration for organizing workers in at least one location had most cards signed within a day
+Starbucks,wikipedia,,,1,union,in february starbucks fired seven workers inmemphiswho had led the unionization effort and temporarily closed the store
+Starbucks,wikipedia,,,1,union,in august the national labor relations board accused the company of illegally discriminating against unionized workers by refusing them wage and benefit increases and requesting restitution it also asked that the ceo at the time howard schultz or a board official read a notice about this purportedly unlawful move
+Starbucks,wikipedia,,,2,strike,on november starbucks annual red cup day and one of the busiest days for employees over locations had employees go on strike the workers were seeking higher staffing levels better wages and consistent schedules
+Starbucks,wikipedia,,,1,union,most unionization efforts are made through sbwu starbucks workers united there are over american locations but since the first unionized location in new york in less than have voted to unionize sbwu and starbucks have yet to successfully negotiate a contract starbucks claims in a letter and on its website that the workers united has delayed bargaining has illegally broadcast bargaining sessions refused to meet in person and that starbucks has reported more than unfair labor practice charges to the nlrb national labor relations board by march the nlrb found no merit in starbucks s complaints and instead ruled that it was starbucks who refused to bargain
+Starbucks,wikipedia,,,2,"strike,union",on june starbucks workers at unionized stores went on strike over the company s stance on in storelgbt pridedecorations
+Starbucks,wikipedia,,,1,union,as of february update starbucks had locations open across countries with of the locations operating in the u s and china and the rest operating elsewhere in february the chain unveiled a new store design aimed at improvingaccessibility the first location to use this design is thewashington d c union marketstore the company plans for all future company owned stores to adopt a similar design
+Starbucks,wikipedia,,,2,termination,starbucks andkraft foodsentered into a partnership in to sell starbucks products in the mondelez grocery stores owned by the latter starbucks claimed that kraft did not sufficiently promote its products and offered kraft us million to terminate the agreement however kraft declined the offer but starbucks proceeded with the termination anyway starbucks wanted to terminate the agreement because at the time single coffee packs were beginning to become popular in their agreement starbucks was confined to selling packs that only worked in kraft s tassimo machines starbucks did not want to fall behind in the market opportunities fork cups in mid november an arbitrator ordered starbucks to pay a fine of us billion tomondelez international acorporate spin offof kraft for its premature unilateral termination of the agreement
+Starbucks,wikipedia,,,2,lawsuit,starbucks has been accused of racial bias and discrimination on several occasions in starbucks settled a lawsuit after two employees were dismissed because of their race age and sex a black woman filed a suit after her direct supervisor a regional vice president said he would like to call her toby a slave name which was given to africankunta kintein the tv miniseriesroots her co worker spoke on her behalf after which she was fired in a former african american starbucks engineer sued the company for discrimination after his supervisor failed to address racist bullying he was experiencing at the workplace instead giving him extra work due to his complaining starbucks settled the suit in theequal employment opportunity commissionhas raised allegations against starbucks for racial bias in its promotions allegedly based on workforce data from to that showed that minority retail partners in the united states received fewer promotions than statistically expected
+Starbucks,wikipedia,,,1,union,in over a period of a few months starbucks terminated more than workers in the u s who had been involved in organizing worker unions against unfair labor practices the workers had also accused starbucks of creating a culture of fear and surveillance in the store
+Starbucks,wikipedia,,,1,union,in november the chain announced it would close a location in seattle that was the first to unionize it said the closure was due to safety concerns
+Starbucks,wikipedia,,,2,"strike,union,union busting,working conditions",on december workers at over stores across the u s undertook a three day strike in response to alleged union busting and to demand better working conditions
+Starbucks,wikipedia,,,2,strike,in june starbucks attracted controversy for allegedly not allowing workers at some locations in states to put up pride month decorations it came during an ongoing public furor over the direction of lgbtq rights in the us with other major corporations liketargetandab inbev which manufacturesbud light also receiving heightened criticism and scrutiny a strike at some stores was announced as a result
+Starbucks,wikipedia,,,1,union,in late starbucksfaced boycottsfollowing the company s decision to sue thestarbucks workers united swu union for making a social media post stating solidarity withpalestine shortly after the october hamas ledattackonisrael starbucks alleged that the post harmed its reputation and sued for trademark infringement for the use of the starbucks name and a related logo the swu made a filing in response requesting the continued use of the name and logo and alleging defamation from starbucks that it endorsed violence or terrorism according to swu president lynne fox the post was written by a single person shortly deleted and not authorized by other members of the swu ceolaxman narasimhanwrote a year ending letter addressed to employees writing our stance is clear we stand for humanity
+Starbucks,wikipedia,,,2,"strike,walkout,working conditions",on red cup day starbucks provides reusable cups to customers who buy holiday themed beverages on red cup day starbucks employees organized a walkout at p m local time in over a dozen u s cities as part of a strike known as the red cup riot involving approximately baristas this phase of the strike includes participation from more than locations across over cities the baristas are advocating for enhanced wages better working conditions and reliable and adequate hours
