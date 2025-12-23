@@ -6,8 +6,8 @@ Test project which implements a predictive AI prototype model trained using Logi
 The system applies weak supervision, time-series feature engineering, and interpretable machine learning models to predict elevated labor risk periods before known real-world incidents.
 
 Two real-world case studies are used:
-- Meta (Facebook) — mass layoffs and restructuring
-- Starbucks — labor unionization and worker protests
+- Meta (Facebook): mass layoffs and restructuring (2022-2023)
+- Starbucks: Labor unionization and worker protests (2021-2025)
 
 
 # Data Collection
