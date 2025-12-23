@@ -18,10 +18,10 @@ Two real-world case studies are used:
 - Model Traaining of Logistic Regression (primary) vs Random Forest (comparison)
 
 # Results
-### Logistic Feature Comparison
+### Logistic Regression Feature 
 ![Logistic Feature Importance](logistic_feature_importance.png)
-### RF Feature Comparison
-![RF Feature Comparison](rf_feature_comparison.png)
+### Random Forest Feature
+![RF Feature Comparison](rf_feature_importance.png)
 ### ROC Curve Comparison
 ![ROC Curve Comparison](roc_comparison.png)
 ### Summary
